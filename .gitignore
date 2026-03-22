@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.mkv
+*.webm
